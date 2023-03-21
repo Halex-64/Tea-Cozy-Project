@@ -1,0 +1,25 @@
+@import "nav.css";
+@import "logo.css";
+@import "mission.css";
+@import "secaoImagens.css";
+@import "locations.css";
+
+body{
+    background-color: black;
+    color: white;
+}
+.teaOfTheMonth{
+    text-align: center;
+    font-size: larger;
+}
+
+#copyright{
+    height: 200px;
+  }
+  
+  footer {
+    text-align: left;
+    padding-left: 20px;
+  }
+
+

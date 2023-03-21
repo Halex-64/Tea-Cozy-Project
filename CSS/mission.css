@@ -1,0 +1,20 @@
+.mission{   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    
+    background-image: url(../images/img-mission-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1800px;
+    height: 1100px;
+    margin: auto;
+    
+}
+.mission__texto{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
